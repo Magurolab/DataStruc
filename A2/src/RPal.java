@@ -26,7 +26,7 @@ public class RPal {
     public static int countRPal(int N){
         if (N <=1) return 1;
         else{
-            return countRPal(N/2) + countRPal(N -2);54
+            return countRPal(N/2) + countRPal(N -2);
         }
     }
 
