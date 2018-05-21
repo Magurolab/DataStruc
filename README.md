@@ -1,2 +1,2 @@
 # DataStruc
-just for saving my shit...
+Course website: https://cs.muic.mahidol.ac.th/courses/ds/
